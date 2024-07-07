@@ -1,0 +1,123 @@
+#yyy {
+    background-image: url(./89781.jpg);
+    background-size:100% 100%;
+    min-height: 100vh;
+}
+#mv {
+    padding-top: 250px;
+    
+    color: #00ADB5;
+    text-align:center;
+}
+#my {
+  font-family: "Playwrite FR Moderne", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 70px;
+  color: #EEEEEE;
+  text-align: center;
+  
+  
+}
+#pp {
+    color: #00ADB5;
+    
+    font-size: x-large;
+    font-weight: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#pici {
+    border-radius: 50%;
+    height: 200px;
+    border: 10px solid #222831;
+    
+}
+@media(max-width: 600px) {
+    #my {
+        font-size:48px;
+
+    }
+}
+#buti {
+    background-color: #59c7cd;
+    border: #59c7cd;
+    color: white;
+}
+#ac {
+    font-size: 20px;
+    color: #222831;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#ac>h4{
+    text-align: center;
+}
+#qq {
+    max-width: 100%;
+}
+.resume1 {
+    border: 10px solid #393E46 ;
+    
+    border-radius: 10px;
+}
+#pika {
+    margin-left: 50px;
+    background-color: #00ADB5;
+    
+    border-radius: 30px;
+}
+#pika>div>p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 10px;
+    color: #EEEEEE;
+}
+#pika>div>h3 {
+    color: #222831;
+    font-weight: 400;
+}
+@media(max-width:600px) {
+    .resume1 {
+        width: 80%;
+    }
+    #pika {
+        width: 80%;
+        margin-left:25px;
+    }
+}
+
+#pisi {
+    text-align: center;
+    color: #393E46;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.holis {
+    height: 120px;
+    border-radius: 50%;
+}
+.fw-light {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #393E46;
+}
+#poe {
+    background-color: #EEEEEE;
+}
+#buci {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+.bapii {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #222831;
+}
+#boyz {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+#boie {
+    background-color: #EEEEEE;
+}
+.popsi {
+    color: #EEEEEE;
+}
